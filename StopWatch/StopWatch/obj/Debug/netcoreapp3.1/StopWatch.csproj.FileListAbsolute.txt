@@ -1,0 +1,13 @@
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Fellowship-92\DAY_6-\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
